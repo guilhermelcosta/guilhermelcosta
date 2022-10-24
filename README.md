@@ -1,4 +1,4 @@
-## Olá! Eu sou o guilherme, estudante de engenharia de software!
+## Olá! Eu sou o guilherme, estudante de engenharia de software.
 
 <div align="center">
   <a href="https://github.com/guilhermelcosta">
