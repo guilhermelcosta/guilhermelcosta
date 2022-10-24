@@ -1,4 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
+## Olá! Eu sou o guilherme, estudante de engenharia de software!
 
 <div align="center">
   <a href="https://github.com/guilhermelcosta">
