@@ -10,6 +10,7 @@
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gui-C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
+  <img align="center" alt="Gui-Cpp" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FFortAwesome%2FFont-Awesome%2Fissues%2F14021&psig=AOvVaw0HDhWSKW-lzx49Rsy452kO&ust=1671542948335000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMDptO3khfwCFQAAAAAdAAAAABAE">
 </div>
   
   ##
