@@ -21,9 +21,9 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
 </div>
----
+
 <div style="display:block" align="center">
   <a href="https://github.com/guilhermelcosta">
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=7&theme=darcula"/>
 </div>
