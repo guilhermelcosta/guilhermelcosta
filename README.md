@@ -4,8 +4,6 @@
 
 Sou estudante de engenharia de software, atualmente no segundo período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Desde então, venho desenvolvendo projetos que possam ajudar em alguns problemas da vida real. O meu repositório possui os projetos que desenvolvi até o momento, que serão atualizados à medida que eu for me aperfeiçoando.
 
-#
-
 <!-- Cards de contato -->
 <div style="align:left">
   <a href = "mailto:guilhermeldcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,11 +14,13 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
 
 ### 🧰 Linguagens e ferramentas
 
+<div style="display:inline-block;">
   <img align="left" alt="Javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</div>
 
 <div align="center">
   <a href="https://github.com/guilhermelcosta">
