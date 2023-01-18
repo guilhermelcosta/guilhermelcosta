@@ -2,7 +2,7 @@
 
 # Olás, eu sou o Guilherme
 
-**`Digital Craftsman`**
+**`Artesão Digital`**
 
 Sou estudante de engenharia de software, atualmente no segundo período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Desde então, venho desenvolvendo projetos que possam ajudar em alguns problemas da vida real. O meu repositório possui os projetos que desenvolvi até o momento, que serão atualizados à medida que eu for me aperfeiçoando.
 
