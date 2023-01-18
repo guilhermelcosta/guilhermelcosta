@@ -1,3 +1,5 @@
+*Read this in [english]()*
+
 # Olás, eu sou o Guilherme
 
 **`Digital Craftsman`**
