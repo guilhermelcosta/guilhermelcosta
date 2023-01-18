@@ -1,4 +1,4 @@
-*Read this in english [<img alt="Javascript" width="30px" border="1px solid grey" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_en.md)*
+*Read this in english [<img alt="Javascript" width="30px" style = "border:1px solid grey;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_en.md)*
 
 # Olás, eu sou o Guilherme
 
