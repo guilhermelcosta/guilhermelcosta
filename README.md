@@ -22,7 +22,6 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
   <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
@@ -30,6 +29,6 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
   <br>
   <br>
   <br>
-  <img width="49%" height="200em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="220em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=7&theme=darcula"/>
+  <img width="49%" max-height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img width="49%" max-height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=7&theme=darcula"/>
 </div>
