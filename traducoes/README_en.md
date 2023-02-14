@@ -1,4 +1,4 @@
-*Leia em **português** [<img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)*
+_Leia em **português** [<img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
 
 # Hey, I'm Guilherme
 
@@ -10,6 +10,7 @@ I'm a software engineering student, currently in my sophomore year at college. I
 <div align="left">
   <a href = "mailto:guilhermeldcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5531988173688" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 ---

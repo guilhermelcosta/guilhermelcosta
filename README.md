@@ -1,4 +1,4 @@
-*Read this in **english** [<img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_en.md)*
+_Read this in **english** [<img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_en.md)_
 
 # Olás, eu sou o Guilherme
 
@@ -10,6 +10,7 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
 <div align="left">
   <a href = "mailto:guilhermeldcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5531988173688" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
 
 ---
