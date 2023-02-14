@@ -1,4 +1,4 @@
-_Leia em **português** [<img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
+[_Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
 
 # Hey, I'm Guilherme
 
