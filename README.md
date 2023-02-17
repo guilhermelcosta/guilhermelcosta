@@ -32,5 +32,5 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
   <br>
   <br>
   <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=5&theme=darcula"/>
+  <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&theme=darcula"/>
 </div>
