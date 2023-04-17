@@ -18,7 +18,7 @@ Sou estudante de engenharia de software, atualmente no segundo período da facul
 ### 🧰 Linguagens e ferramentas
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
-  <img align="left" alt="Javascript" width="30px" style="padding-right:10px, padding-top:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" alt="Javascript" width="30px" style="padding-top:30px, padding-top:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" alt="HTML" width="30px" style="padding-right:10px, padding-top:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="left" alt="CSS" width="30px" style="padding-right:10px, padding-top:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="left" alt="C" width="30px" style="padding-right:10px, padding-top:3px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
