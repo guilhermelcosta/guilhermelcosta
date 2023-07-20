@@ -4,6 +4,8 @@ _[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px sol
 
 **`Digital Craftsman`**
 
+### ✌️[My personal portfolio](https://guilhermecosta.vercel.app/)
+
 I'm a software engineering student, currently in my sophomore year at college. I have a degree in civil engineering, a field where I worked until 2022, when I decided to migrate to the field I always liked. Since then, I've been developing projects that can help with some real-life problems. My repository has the projects I've developed so far, which will be updated as I improve.
 
 <!-- Cards de contato -->

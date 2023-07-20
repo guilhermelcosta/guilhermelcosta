@@ -4,7 +4,7 @@ _[Read in **english** <img alt="US Flag" width="30px" style = "border:1px solid 
 
 **`Artesão Digital`**
 
-[Meu portfloio pessoal](https://guilhermecosta.vercel.app/)
+### ✌️[Meu portfolio pessoal](https://guilhermecosta.vercel.app/)
 
 Sou estudante de engenharia de software, atualmente no terceiro período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Desde então, venho desenvolvendo projetos que possam ajudar em alguns problemas da vida real. O meu repositório possui os projetos que desenvolvi até o momento, que serão atualizados à medida que eu for me aperfeiçoando.
 
