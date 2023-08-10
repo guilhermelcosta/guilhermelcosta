@@ -1,4 +1,4 @@
-_[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
+_[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md)_
 
 # Hey, I'm Guilherme
 
@@ -18,6 +18,7 @@ I'm a software engineering student, currently in my sophomore year at college. I
 ---
 
 ### 🧰 Languages and tools
+
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
   <img align="left" title="Javascript" alt="Javascript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
