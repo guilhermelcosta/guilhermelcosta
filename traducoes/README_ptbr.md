@@ -1,12 +1,12 @@
-_[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
+_[Read in **english** <img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_en.md)_
 
-# Hey, I'm Guilherme
+# Olás, eu sou o Guilherme
 
-**`Digital Craftsman`**
+**`Artesão Digital`**
 
-### [My personal portfolio](https://guilhermecosta.vercel.app/) ✌️
+### [Meu portfolio pessoal](https://guilhermecosta.vercel.app/) ✌️
 
-I'm a software engineering student, currently in my sophomore year at college. I have a degree in civil engineering, a field where I worked until 2022, when I decided to migrate to the field I always liked. Since then, I've been developing projects that can help with some real-life problems. My repository has the projects I've developed so far, which will be updated as I improve.
+Sou estudante de engenharia de software, atualmente no terceiro período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Desde então, venho desenvolvendo projetos que possam ajudar em alguns problemas da vida real. O meu repositório possui os projetos que desenvolvi até o momento, que serão atualizados à medida que eu for me aperfeiçoando.
 
 <!-- Cards de contato -->
 <div align="left">
@@ -17,8 +17,9 @@ I'm a software engineering student, currently in my sophomore year at college. I
 
 ---
 
-### 🧰 Languages and tools
+### 🧰 Linguagens e ferramentas
 
+<!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
   <img align="left" title="Javascript" alt="Javascript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" title="HTML" alt="HTML" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
