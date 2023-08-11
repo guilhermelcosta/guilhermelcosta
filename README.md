@@ -38,9 +38,12 @@ I'm a software engineering student, currently in my sophomore year at college. I
   <br>
   <br>
   <br>
-<!-- Light mode -->
-<img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true" alt="GitHub Stats" loading="lazy" data-theme="ayu-mirage" />
-
-<img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=ayu-mirage" alt="Top Languages" loading="lazy" data-theme="ayu-mirage" />
-
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=swift&include_all_commits=true&count_private=true">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true">
+</picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=swift">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=ayu-mirage">
+</picture>
 </div>
