@@ -6,7 +6,7 @@ _[Read in **english** <img alt="US Flag" width="30px" style = "border:1px solid 
 
 ### [Meu portfolio pessoal](https://guilhermecosta.vercel.app/) ✌️
 
-Sou estudante de engenharia de software, atualmente no terceiro período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Desde então, venho desenvolvendo projetos que possam ajudar em alguns problemas da vida real. O meu repositório possui os projetos que desenvolvi até o momento, que serão atualizados à medida que eu for me aperfeiçoando.
+Sou estudante de engenharia de software, atualmente no terceiro período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Eu me sinto confortável trabalhando com HTML, CSS, VanillaJS, ReactJS, VueJS, Java, Sprinboot, SQL e Git. Aprecio metodologias ágeis e buscar novas formas de melhorar os processos, tornando-os mais eficientes. Tenho interesse em me aperfeiçoar na criação de aplicativos sem servidor.
 
 <!-- Cards de contato -->
 <div align="left">
