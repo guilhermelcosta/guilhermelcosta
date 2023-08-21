@@ -6,7 +6,7 @@ _[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px sol
 
 ### [My personal portfolio](https://guilhermecosta.vercel.app/) ✌️
 
-I'm a software engineering student, currently in my sophomore year at college. I have a degree in civil engineering, a field where I worked until 2022, when I decided to migrate to the field I always liked. Since then, I've been developing projects that can help with some real-life problems. My repository has the projects I've developed so far, which will be updated as I improve.
+I'm a software engineering student, currently in my sophomore year at college. I have a degree in civil engineering, a field where I worked until 2022, when I decided to migrate to the field I always liked. I feel comfortable working with HTML, CSS, VanillaJS, ReactJS, VueJS, Java, Sprinboot, SQL and Git. I appreciate agile methodologies and looking for new ways to improve processes, making them more efficient. My curiosity extends to mastering the realm of building serverless applications.
 
 <!-- Cards de contato -->
 <div align="left">
