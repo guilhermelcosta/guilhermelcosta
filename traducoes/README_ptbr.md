@@ -1,6 +1,6 @@
-_[Read in **english &nbsp;** <img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
+_[Read in **english** &nbsp; <img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
 
-_[Leer en **español &nbsp;** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md)_
+_[Leer en **español** &nbsp; <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md)_
 
 
 # Olás, eu sou o Guilherme
