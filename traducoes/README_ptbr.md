@@ -43,11 +43,11 @@ de melhorar os processos, tornando-os mais eficientes.
   <br>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
-    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&locale=pt-br&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&locale=pt-br&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=graywhite">
-    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=discord_old_blurple">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&locale=pt-br&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=graywhite">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&locale=pt-br&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=discord_old_blurple">
 </picture>
 </div>

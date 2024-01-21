@@ -6,7 +6,7 @@
 
 **`Artesano Digital`**
 
-### [Meu portfolio pessoal](https://guilhermecosta.vercel.app/) ✌️
+### [Mi portafolio personal](https://guilhermecosta.vercel.app/) ✌️
 
 Soy un desarrollador full stack que disfruta la emoción de crear soluciones innovadoras y enfrentar desafíos de una
 manera práctica y eficiente. Aunque tengo más experiencia trabajando con back-end, realmente disfruto las tareas que
@@ -23,7 +23,7 @@ nuevas formas para mejorar los procesos, haciéndolos más eficientes.
 
 ---
 
-### 🧰 Principais linguagens e ferramentas
+### 🧰 Principales lenguajes y herramientas
 
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
@@ -43,11 +43,11 @@ nuevas formas para mejorar los procesos, haciéndolos más eficientes.
   <br>
   <br>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
-    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&locale=es&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&locale=es&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=graywhite">
-    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=discord_old_blurple">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&locale=es&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=graywhite">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&locale=es&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=discord_old_blurple">
 </picture>
 </div>
