@@ -1,5 +1,7 @@
 _[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md)_
 
+_[Leer en **español** <img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md)_
+
 # Hey, I'm Guilherme
 
 **`Digital Craftsman`**
@@ -9,8 +11,7 @@ _[Leia em **português** <img alt="BR Flag" width="30px" style = "border:1px sol
 I'm a full stack developer who likes the thrill of crafting innovative solutions and tackling challenges with practical
 and efficient way. Although I have more experience working on the back-end, I'm genuinely fond of tasks that encompass
 the entire development process, intertwining front-end, back-end, and database elements. I feel comfortable working with Java, Spring Framework, Angular, React Js, SQL and Git. I appreciate agile methodologies
-and looking for new ways to improve processes, making them more efficient. My curiosity extends to mastering the realm
-of building serverless applications.
+and looking for new ways to improve processes, making them more efficient.
 
 <!-- Cards de contato -->
 <div align="left">
@@ -21,7 +22,7 @@ of building serverless applications.
 
 ---
 
-### 🧰 Languages and tools
+### 🧰 Main languages and tools
 
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
