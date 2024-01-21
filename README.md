@@ -1,5 +1,5 @@
-[<img alt="BR Flag" width="30px" style = "border:1px solid black; " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md)
-[<img alt="BR Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md)
+[<img title="Readme PT-BR" alt="Readme PT-BR" width="30px" style = "border:1px solid black; " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md)
+[<img title="Readme ES" alt="Readme ES" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md)
 
 # Hey, I'm Guilherme
 
@@ -14,9 +14,9 @@ and looking for new ways to improve processes, making them more efficient.
 
 <!-- Cards de contato -->
 <div align="left">
-  <a href = "mailto:guilhermeldcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5531988173688" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  <a href = "mailto:guilhermeldcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Gmail" alt="Gmail" ></a>
+  <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn" alt="LinkedIn" ></a>
+  <a href="https://wa.me/5531988173688" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" title="WhatsApp" alt="WhatsApp" ></a>
 </div>
 
 ---
