@@ -1,4 +1,5 @@
-_[Read in **english** <img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
+_[Read in **english
+** <img alt="US Flag" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/README.md)_
 
 # Olás, eu sou o Guilherme
 
@@ -6,7 +7,12 @@ _[Read in **english** <img alt="US Flag" width="30px" style = "border:1px solid 
 
 ### [Meu portfolio pessoal](https://guilhermecosta.vercel.app/) ✌️
 
-Sou estudante de engenharia de software, atualmente no terceiro período da faculdade. Sou graduado em engenharia civil, área em que trabalhei até 2022, quando decidi migrar para a área que sempre gostei. Eu me sinto confortável trabalhando com HTML, CSS, VanillaJS, ReactJS, VueJS, Java, Sprinboot, SQL e Git. Aprecio metodologias ágeis e buscar novas formas de melhorar os processos, tornando-os mais eficientes. Tenho interesse em me aperfeiçoar na criação de aplicativos sem servidor.
+Sou um desenvolvedor full stack que gosta da emoção de criar soluções inovadoras e enfrentar desafios de forma prática e
+eficiente. Embora eu tenha mais experiência trabalhando com back-end, gosto muito de tarefas que englobam todo o
+processo de desenvolvimento, que abarcam elementos de front-end, back-end e banco de dados. Eu me sinto confortável
+trabalhando com Java, Spring Framework, Angular, React Js, SQL e Git. Aprecio metodologias ágeis e buscar novas formas
+de melhorar os processos, tornando-os mais eficientes. Tenho interesse em me aperfeiçoar na criação de aplicativos sem
+servidor.
 
 <!-- Cards de contato -->
 <div align="left">
@@ -21,23 +27,27 @@ Sou estudante de engenharia de software, atualmente no terceiro período da facu
 
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
-  <img align="left" title="Javascript" alt="Javascript" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="left" title="HTML" alt="HTML" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="left" title="CSS" alt="CSS" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="left" title="Vue Js" alt="Vue Js" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="left" title="React" alt="React" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="left" title="C" alt="C" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="left" title="Java" alt="Java" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="left" title="PHP" alt="PHP" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="left" title="Git" alt="Git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="left" title="Spring" alt="Spring" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="left" title="Angular" alt="Angular" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="left" title="React" alt="React" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="left" title="MySQL" alt="SQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="left" title="Springboot" alt="Springboot" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="left" title="PostgreSQL" alt="PostgreSQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="left" title="Git" alt="Git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="left" title="Azure" alt="Azure" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
 <div style="display:block" align="center">
   <br>
   <br>
   <br>
-  <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true&locale=pt-br"/>
-  <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=ayu-mirage&locale=pt-br"/>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=graywhite">
+    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=discord_old_blurple">
+</picture>
 </div>
