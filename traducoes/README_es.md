@@ -8,7 +8,7 @@
 
 ### [Mi portafolio personal](https://guilhermecosta.vercel.app/) ✌️
 
-Soy un desarrollador full stack que disfruta la emoción de crear soluciones innovadoras y enfrentar desafíos de una
+Soy un desarrollador de software que disfruta la emoción de crear soluciones innovadoras y enfrentar desafíos de una
 manera práctica y eficiente. Aunque tengo más experiencia trabajando con back-end, realmente disfruto las tareas que
 abarcan todo proceso de desarrollo, que abarca elementos de front-end, back-end y base de datos. Me siento comodo
 trabajando con Java, Spring Framework, Angular, React Js, SQL y Git. Aprecio las metodologías ágiles y la búsqueda de
