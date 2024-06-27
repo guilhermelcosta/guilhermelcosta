@@ -49,3 +49,4 @@ and looking for new ways to improve processes, making them more efficient.
     <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=Obsidian-Main-Vault,github-readme-stats&theme=discord_old_blurple">
 </picture>
 </div>
+
