@@ -21,7 +21,7 @@ and looking for new ways to improve processes, making them more efficient.
 
 ---
 
-### 🧰 Main languages and tools
+### 🧰 Main languages and tools 
 
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
