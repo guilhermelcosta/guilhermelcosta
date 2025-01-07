@@ -2,6 +2,7 @@
 [//]: # ([<img title="Leer en Español" alt="Readme ES" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">]&#40;https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md&#41;)
 
 [<img lang="ES">]()
+[<img lang="EN">]()
 
 # Hey, I'm Guilherme 
 
