@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59b4145d-0c1a-4f70-ade2-21a77c82a1f9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/cobrinha.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/guilhermelcosta.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="59b4145d-0c1a-4f70-ade2-21a77c82a1f9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,11 +71,15 @@
       <workItem from="1736204494400" duration="61000" />
       <workItem from="1736204567338" duration="175000" />
       <workItem from="1736209637281" duration="2587000" />
-      <workItem from="1736246585632" duration="618000" />
+      <workItem from="1736246585632" duration="919000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="chore: atualiza parametros readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
