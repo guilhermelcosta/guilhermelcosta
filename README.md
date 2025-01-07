@@ -1,3 +1,5 @@
+[//]: # (langs=[EN,ES])
+
 [<img title="Leia em Português" alt="Readme PT-BR" width="30px" style = "border:1px solid black; " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md)
 [<img title="Leer en Español" alt="Readme ES" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">](https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md)
 
