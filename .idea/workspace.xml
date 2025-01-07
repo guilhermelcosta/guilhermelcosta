@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59b4145d-0c1a-4f70-ade2-21a77c82a1f9" name="Changes" comment="" />
+    <list default="true" id="59b4145d-0c1a-4f70-ade2-21a77c82a1f9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "guilhermelcosta"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;guilhermelcosta&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:guilhermelcosta/guilhermelcosta.git",
-    "accountId": "99317aeb-1a11-4cb5-aec3-6b01aca53019"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:guilhermelcosta/guilhermelcosta.git&quot;,
+    &quot;accountId&quot;: &quot;99317aeb-1a11-4cb5-aec3-6b01aca53019&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -71,7 +74,7 @@
       <workItem from="1736204494400" duration="61000" />
       <workItem from="1736204567338" duration="175000" />
       <workItem from="1736209637281" duration="2587000" />
-      <workItem from="1736246585632" duration="919000" />
+      <workItem from="1736246585632" duration="1257000" />
     </task>
     <servers />
   </component>
