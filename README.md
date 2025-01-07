@@ -1,18 +1,25 @@
 [//]: # ([<img title="Leia em Português" alt="Readme PT-BR" width="30px" style = "border:1px solid black; " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">]&#40;https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md&#41;)
+
 [//]: # ([<img title="Leer en Español" alt="Readme ES" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">]&#40;https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md&#41;)
 
 <data SL="EN" TL="PT,ES"></data>
 
-# Hey, I'm Guilherme
+<h1 class="translate">Hey, I'm Guilherme</h1>
 
-**`Digital Craftsman`** 
+**`Digital Craftsman`**
 
-### [My personal portfolio](https://guilhermecosta.vercel.app/) ✌️
+<h2 class="translate">My personal portfolio</h2>
 
+[//]: # (### [My personal portfolio]&#40;https://guilhermecosta.vercel.app/&#41; ✌️)
+
+<p class="translate">
 I'm a software developer who likes the thrill of crafting innovative solutions and tackling challenges with practical
 and efficient way. Although I have more experience working on the back-end, I'm genuinely fond of tasks that encompass
 the entire development process, intertwining front-end, back-end, and database elements. I feel comfortable working with Java, Spring Framework, Angular, React Js, SQL and Git. I appreciate agile methodologies
 and looking for new ways to improve processes, making them more efficient.
+</p>
+
+<br>
 
 <!-- Cards de contato -->
 <div align="left">
@@ -23,7 +30,10 @@ and looking for new ways to improve processes, making them more efficient.
 
 ---
 
-### 🧰 Main languages and tools 
+<h2 class="translate">Main languages and tools</h2>
+
+
+[//]: # (### 🧰 Main languages and tools)
 
 <!-- Link para badges https://devicon.dev/ -->
 <div style="display:inline_block">
