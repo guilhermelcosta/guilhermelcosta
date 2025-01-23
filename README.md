@@ -17,8 +17,6 @@ I'm a software developer who likes the thrill of crafting innovative solutions a
 and efficient way. Although I have more experience working on the back-end, I'm genuinely fond of tasks that encompass
 the entire development process, intertwining front-end, back-end, and database elements. I feel comfortable working with Java, Spring Framework, Angular, React Js, SQL and Git. I appreciate agile methodologies
 and looking for new ways to improve processes, making them more efficient.
-
-  TEST
 </p>
 
 <br>
