@@ -13,11 +13,11 @@
 [//]: # (### [My personal portfolio]&#40;https://guilhermecosta.vercel.app/&#41; ✌️)
 
 <p class="translate">
-I'm a full stack developer with a strong focus on backend, experienced in designing and building scalable solutions across the entire software stack. I enjoy solving real problems with clean, efficient code, and I’m comfortable working with Java, Spring Boot, Spring Batch, Angular, React, SQL, and Git.
+Full stack dev focused on backend. Skilled in Java, Spring Boot, Angular, React, SQL, Git.
 
-In 2022, I transitioned from a career in civil engineering to software development, driven by a passion for technology and its power to transform processes and outcomes. Since then, I’ve worked on cloud-based microservices, including a project where document automation cut 95% of the manual workload, and on legacy system modernization using modern tools and platforms like AWS, Azure DevOps, and API Gateway.
+Switched from civil engineering to software in 2022. Delivered cloud microservices that cut 95% manual work and modernized legacy systems with AWS, Azure DevOps, API Gateway.
 
-I follow agile methodologies and continuously look for ways to improve delivery and system performance. I'm currently exploring serverless architectures and cloud-native design patterns, aiming to build solutions that scale reliably.
+Agile practitioner, improving delivery and performance. Exploring serverless and cloud-native design to build scalable solutions.
 </p>
 
 <br>
