@@ -1,65 +1,43 @@
-[//]: # ([<img title="Leia em Português" alt="Readme PT-BR" width="30px" style = "border:1px solid black; " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">]&#40;https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_ptbr.md&#41;)
+<readmator source-language="EN" translate-language="PT,ES,FR"></readmator>
 
-[//]: # ([<img title="Leer en Español" alt="Readme ES" width="30px" style = "border:1px solid black;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1920px-Flag_of_Spain.svg.png">]&#40;https://github.com/guilhermelcosta/guilhermelcosta/blob/main/traducoes/README_es.md&#41;) 
-
-<data SL="EN" TL="PT,ES,FR"></data>
-
-<h1 class="translate">Hey, I'm Guilherme</h1>
+<h1 rm-translate>Very good evening, ladies and gentlemen </h1>
 
 **`Digital Craftsman`**
 
-<h2 class="translate">My personal portfolio</h2>
-
-[//]: # (### [My personal portfolio]&#40;https://guilhermecosta.vercel.app/&#41; ✌️)
-
-<p class="translate">
-Full stack dev focused on backend. Skilled in Java, Spring Boot, Angular, React, SQL, Git.
-
-Switched from civil engineering to software in 2022. Delivered cloud microservices that cut 95% manual work and modernized legacy systems with AWS, Azure DevOps, API Gateway.
-
-Agile practitioner, improving delivery and performance. Exploring serverless and cloud-native design to build scalable solutions.
+<p rm-translate>
+Hello, my name is Guilherme, I'm a full stack developer with a strong focus on backend systems. I specialize in designing and implementing scalable software solutions, with experience in Java, Spring Boot, Python, Angular, React, SQL, Git, and cloud-based microservices. Currently, I am studying cloud-first application development using AWS services such as Lambda, API Gateway, Glue, DynamoDB, and Athena to build efficient and serverless architectures.
 </p>
 
-<br>
-
-<!-- Cards de contato -->
 <div align="left">
   <a href = "mailto:guilhermeldcosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" title="Gmail" alt="Gmail" ></a>
-  <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" title="LinkedIn" alt="LinkedIn" ></a>
-  <a href="https://wa.me/5531988173688" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" title="WhatsApp" alt="WhatsApp" ></a>
+  <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge" target="_blank" title="LinkedIn" alt="LinkedIn" ></a>
 </div>
 
----
+<h2 rm-translate>Main languages and tools</h2>
 
-<h2 class="translate">Main languages and tools</h2>
-
-
-[//]: # (### 🧰 Main languages and tools)
-
-<!-- Link para badges https://devicon.dev/ -->
-<div style="display:inline_block">
-  <img align="left" title="Java" alt="Java" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="left" title="Spring" alt="Spring" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="left" title="Angular" alt="Angular" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-  <img align="left" title="React" alt="React" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="left" title="MySQL" alt="SQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="left" title="PostgreSQL" alt="PostgreSQL" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="left" title="Git" alt="Git" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="left" title="Azure" alt="Azure" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-  <img align="left" title="Docker" alt="Docker" width="30px" style="padding-right:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" title="Java">
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge" alt="Spring" title="Spring">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" title="Angular">
+  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" title="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" title="PostgreSQL">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge" alt="Git" title="Git">
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white&style=for-the-badge" alt="Microsoft Azure" title="Microsoft Azure">
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" title="Docker">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white&style=for-the-badge" alt="Python" title="Python">
+  <img src="https://custom-icon-badges.demolab.com/badge/AWS%20Lambda-%23FF9900.svg?logo=aws-lambda&logoColor=white&style=for-the-badge" alt="AWS Lambda" title="AWS Lambda">
+  <img src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff&style=for-the-badge" alt="ETL" title="ETL">
+  <img src="https://img.shields.io/badge/AWS%20DynamoDB-%230072C6.svg?logo=amazondynamodb&logoColor=white&style=for-the-badge" alt="AWS DynamoDB" title="AWS DynamoDB">
+  <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff&style=for-the-badge" alt="Oracle DB" title="Oracle DB">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff&style=for-the-badge" alt="Terraform" title="Terraform">
+  <img src="https://img.shields.io/badge/Linux-23ED8B00?logo=linux&logoColor=white&style=for-the-badge" alt="Linux" title="Linux">
 </div>
 
 <div style="display:block" align="center">
-  <br>
-  <br>
-  <br>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true">
-    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api?username=guilhermelcosta&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&theme=onedark&count_private=true">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=obsidian-vault,obsidian-vault-2,github-readme-stats&theme=graywhite">
-    <img width="49%" height="180em" src="https://github-readme-stats-psi-liart.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&langs_count=4&exclude_repo=obsidian-vault,obsidian-vault-2,github-readme-stats&theme=discord_old_blurple">
-</picture>
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&theme=onedark">
+  </picture>
 </div>
-
