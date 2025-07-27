@@ -16,6 +16,9 @@ Hello, my name is Guilherme, I'm a full stack developer with a strong focus on b
 <h2 rm-translate>Main languages and tools</h2>
 
 <div align="left">
+  <br>
+  <br>
+
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" title="Java">
   <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white&style=for-the-badge" alt="Spring" title="Spring">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" title="Angular">
