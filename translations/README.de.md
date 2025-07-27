@@ -1,14 +1,14 @@
-<readmator source-language="EN" translate-language="PT,ES,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md)</p>
-<h1>Very good evening, ladies and gentlemen</h1>
+<readmator source-language="EN" translate-language="PT,ES,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
+<h1>Sehr guter Abend, meine Damen und Herren</h1>
 
 **`Digital Craftsman`**
 
-<p>Hello, my name is Guilherme, I'm a full stack developer with a strong focus on backend systems. I specialize in designing and implementing scalable software solutions, with experience in Java, Spring Boot, Python, Angular, React, SQL, Git, and cloud-based microservices. Currently, I am studying cloud-first application development using AWS services such as Lambda, API Gateway, Glue, DynamoDB, and Athena to build efficient and serverless architectures.</p>
+<p>Hallo, mein Name ist Guilherme, ich bin ein voller Stack-Entwickler mit einem starken Fokus auf Backend-Systeme. Ich bin spezialisiert auf die Entwicklung und Implementierung skalierbarer Softwarelösungen, mit Erfahrung in Java, Spring Boot, Python, Angular, React, SQL, Git und Cloud-basierten Mikroservices. Derzeit studiere ich Cloud-First-Anwendungsentwicklung mit AWS-Diensten wie Lambda, API Gateway, Glue, DynamoDB und Athena, um effiziente und serverlose Architekturen aufzubauen.</p>
 <div align="left">
 <a href="mailto:guilhermeldcosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff&amp;style=for-the-badge" target="_blank" title="LinkedIn"/></a>
 </div>
-<h2>Main languages and tools</h2>
+<h2>Hauptsprachen und Werkzeuge</h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&amp;logoColor=white&amp;style=for-the-badge" title="Java"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&amp;logoColor=white&amp;style=for-the-badge" title="Spring"/>
