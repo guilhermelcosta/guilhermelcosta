@@ -38,9 +38,9 @@ Hello, my name is Guilherme, I'm a full stack developer with a strong focus on b
   <br>
   <br>
   <picture>
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&theme=onedark&count_private=true">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&theme=github_dark_dimmed">
   </picture>
   <picture>
-    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&theme=onedark">
+    <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&layout=compact&theme=github_dark_dimmed">
   </picture>
 </div>
