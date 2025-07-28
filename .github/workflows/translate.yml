@@ -1,0 +1,40 @@
+name: Translate README
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+
+    if: contains(github.event.head_commit.message, 'update-readme')
+
+    steps:
+      - name: Call Translation API
+        uses: actions/github-script@v6
+        with:
+          script: |
+            console.log("Commit message matches the required pattern. Calling translation API...");
+            const response = await fetch('${{ secrets.TRANSLATOR_API_ENDPOINT }}/translate', {
+              method: 'POST',
+              headers: {
+                'Content-Type': 'application/json',
+                'accept': 'application/json'
+              },
+              body: JSON.stringify({
+                github_user: context.repo.owner,
+                repo_name: context.repo.repo,
+                github_token: '${{ secrets.REPO_ACCESS_TOKEN }}'
+              })
+            });
+
+            const result = await response.json();
+            console.log(result);
+
+            if (!response.ok) {
+              core.setFailed(`Translation API failed with status ${response.status}: ${JSON.stringify(result)}`);
+            }
