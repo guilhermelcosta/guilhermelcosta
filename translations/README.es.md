@@ -30,9 +30,9 @@
 <br/>
 <br/>
 <picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&amp;theme=github_dark_dimmed" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&amp;theme=github_dark_dimmed&amp;hide_rank=true" width="49%"/>
 </picture>
 <picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=compact&amp;theme=github_dark_dimmed" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=donut-vertical&amp;theme=github_dark_dimmed" width="49%"/>
 </picture>
 </div>
