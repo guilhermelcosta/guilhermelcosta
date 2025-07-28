@@ -1,7 +1,7 @@
 <readmator source-language="EN" translate-language="PT,ES,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
 <h1>Sehr guter Abend, meine Damen und Herren</h1>
 
-**`Digital Craftsman`**
+**`Digital Craftsman`** 
 
 <p>Hallo, mein Name ist Guilherme, ich bin ein voller Stack-Entwickler mit einem starken Fokus auf Backend-Systeme. Ich bin spezialisiert auf die Entwicklung und Implementierung skalierbarer Softwarelösungen, mit Erfahrung in Java, Spring Boot, Python, Angular, React, SQL, Git und Cloud-basierten Mikroservices. Derzeit studiere ich Cloud-First-Anwendungsentwicklung mit AWS-Diensten wie Lambda, API Gateway, Glue, DynamoDB und Athena, um effiziente und serverlose Architekturen aufzubauen.</p>
 <div align="left">
