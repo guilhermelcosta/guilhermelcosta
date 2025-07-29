@@ -1,4 +1,4 @@
-<readmator source-language="EN" translate-language="ES"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md)</p>
+<readmator source-language="EN" translate-language="ES"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md)</p>
 <h1>Muy buenas noches, damas y caballeros</h1>
 
 **`Digital Craftsman`**
