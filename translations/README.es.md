@@ -1,7 +1,7 @@
-<readmator source-language="EN" translate-language="PT,ES,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
+<readmator source-language="EN" translate-language="ES"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md)</p>
 <h1>Muy buenas noches, damas y caballeros</h1>
 
-**`Digital Craftsman`** 
+**`Digital Craftsman`**
 
 <p>Hola, mi nombre es Guilherme, soy un desarrollador de pilas completo con un enfoque fuerte en los sistemas de backend. Me especializo en diseñar e implementar soluciones de software escalables, con experiencia en Java, Spring Boot, Python, Angular, React, SQL, Git y microservicios basados en la nube. Actualmente estoy estudiando desarrollo de aplicaciones cloud-first utilizando servicios de AWS como Lambda, API Gateway, Glue, DynamoDB y Athena para construir arquitecturas eficientes e inservibles.</p>
 <div align="left">
