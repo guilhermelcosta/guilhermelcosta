@@ -1,7 +1,7 @@
-<readmator source-language="EN" translate-language="PT,ES,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
+<readmator source-language="EN" translate-language="PT"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
 <h1 rm-translate="">Very good evening, ladies and gentlemen </h1>
 
-**`Digital Craftsman`** 
+**`Digital Craftsman`**
 
 <p rm-translate="">
 Hello, my name is Guilherme, I'm a full stack developer with a strong focus on backend systems. I specialize in designing and implementing scalable software solutions, with experience in Java, Spring Boot, Python, Angular, React, SQL, Git, and cloud-based microservices. Currently, I am studying cloud-first application development using AWS services such as Lambda, API Gateway, Glue, DynamoDB, and Athena to build efficient and serverless architectures.
