@@ -1,14 +1,14 @@
-<readmator source-language="EN" translate-language="ES"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md)</p>
+<readmator source-language="EN" translate-language="PT,ES"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md)</p>
 <h1>Muy buenas noches, damas y caballeros</h1>
 
 **`Digital Craftsman`**
 
-<p>Hola, mi nombre es Guilherme, soy un desarrollador de pilas completo con un enfoque fuerte en los sistemas de backend. Me especializo en diseñar e implementar soluciones de software escalables, con experiencia en Java, Spring Boot, Python, Angular, React, SQL, Git y microservicios basados en la nube. Actualmente estoy estudiando desarrollo de aplicaciones cloud-first utilizando servicios de AWS como Lambda, API Gateway, Glue, DynamoDB y Athena para construir arquitecturas eficientes e inservibles.</p>
+<p>Hola, mi nombre es Guilherme, soy un desarrollador completo de pila con un fuerte enfoque en los sistemas de backend.Me especializo en el diseño e implementación de soluciones de software escalables, con experiencia en Java, Boot Spring, Python, Angular, React, SQL, GIT y microservicios basados en la nube.Actualmente, estoy estudiando el desarrollo de aplicaciones de la primera nube utilizando servicios de AWS como Lambda, API Gateway, Glue, Dynamodb y Athena para construir arquitecturas eficientes y sin servidor.</p>
 <div align="left">
 <a href="mailto:guilhermeldcosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff&amp;style=for-the-badge" target="_blank" title="LinkedIn"/></a>
 </div>
-<h2>Principales idiomas e instrumentos</h2>
+<h2>Idiomas y herramientas principales</h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&amp;logoColor=white&amp;style=for-the-badge" title="Java"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&amp;logoColor=white&amp;style=for-the-badge" title="Spring"/>
