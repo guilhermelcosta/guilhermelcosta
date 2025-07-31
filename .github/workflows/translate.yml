@@ -19,7 +19,7 @@ jobs:
         with:
           script: |
             console.log("Commit message matches the required pattern. Calling translation API...");
-            const response = await fetch('${{ secrets.TRANSLATOR_API_ENDPOINT }}/translate', {
+            const response = await fetch('${{ secrets.TRANSLATOR_API_ENDPOINT }}', {
               method: 'POST',
               headers: {
                 'Content-Type': 'application/json',
