@@ -1,6 +1,6 @@
-<readmator source-language="EN" translate-language="PT,ES,FR"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
+<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md)</p>
 
-**`Digital Craftsman`**
+**`Digital Craftsman`** 
 
 <p>Bonjour, je m'appelle Guilherme, je suis un développeur complet avec un fort accent sur les systèmes backend.Je me spécialise dans la conception et la mise en œuvre de solutions logicielles évolutives, avec l'expérience en Java, Spring Boot, Python, Angular, React, SQL, Git et des microservices basés sur le cloud.Actuellement, j'étudie le développement d'applications en cloud-premier à l'aide de services AWS tels que Lambda, API Gateway, Glue, DynamoDB et Athena pour créer des architectures efficaces et sans serveur.</p>
 <div align="left">
