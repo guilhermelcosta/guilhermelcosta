@@ -37,3 +37,4 @@ Hello, my name is Guilherme, I'm a full stack developer with a strong focus on b
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=donut-vertical&amp;theme=github_dark_dimmed" width="49%"/>
 </picture>
 </div>
+</readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md)</p>
