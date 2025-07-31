@@ -1,4 +1,4 @@
-<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md)</p>
+<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
 
 **`Digital Craftsman`**
 
@@ -29,9 +29,9 @@
 <br/>
 <br/>
 <picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&amp;theme=github_dark_dimmed&amp;hide_rank=true" width="49%"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&amp;theme=github_dark_dimmed&amp;hide_rank=true" width="49%"/>
 </picture>
 <picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=donut-vertical&amp;theme=github_dark_dimmed" width="49%"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=donut&amp;theme=github_dark_dimmed" width="49%"/>
 </picture>
 </div>
