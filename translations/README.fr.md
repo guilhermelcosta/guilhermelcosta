@@ -1,14 +1,14 @@
-<readmator source-language="EN" translate-language="PT,ES,FR"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md)</p>
-<h1>Bonsoir, mesdames et messieurs.</h1>
+<readmator source-language="EN" translate-language="PT,ES,FR"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md)</p>
+<h1>Très bonne soirée, mesdames et messieurs</h1>
 
 **`Digital Craftsman`**
 
-<p>Bonjour, je m'appelle Guilherme, je suis un développeur de pile complète avec un fort accent sur les systèmes de backend. Je me spécialise dans la conception et la mise en œuvre de solutions logicielles évolutives, avec une expérience dans Java, Spring Boot, Python, Angular, React, SQL, Git et les microservices basés sur le cloud. Actuellement, j'étudie le développement d'applications cloud-premier en utilisant des services AWS tels que Lambda, API Gateway, Glue, DynamoDB, et Athena pour construire des architectures efficaces et sans serveur.</p>
+<p>Bonjour, je m'appelle Guilherme, je suis un développeur complet avec un fort accent sur les systèmes backend.Je me spécialise dans la conception et la mise en œuvre de solutions logicielles évolutives, avec l'expérience en Java, Spring Boot, Python, Angular, React, SQL, Git et des microservices basés sur le cloud.Actuellement, j'étudie le développement d'applications en cloud-premier à l'aide de services AWS tels que Lambda, API Gateway, Glue, DynamoDB et Athena pour créer des architectures efficaces et sans serveur.</p>
 <div align="left">
 <a href="mailto:guilhermeldcosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff&amp;style=for-the-badge" target="_blank" title="LinkedIn"/></a>
 </div>
-<h2>Principaux langages et outils</h2>
+<h2>Langues et outils principaux</h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&amp;logoColor=white&amp;style=for-the-badge" title="Java"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&amp;logoColor=white&amp;style=for-the-badge" title="Spring"/>
@@ -30,9 +30,9 @@
 <br/>
 <br/>
 <picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&amp;theme=github_dark_dimmed" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermelcosta&amp;theme=github_dark_dimmed&amp;hide_rank=true" width="49%"/>
 </picture>
 <picture>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=compact&amp;theme=github_dark_dimmed" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermelcosta&amp;layout=donut-vertical&amp;theme=github_dark_dimmed" width="49%"/>
 </picture>
 </div>
