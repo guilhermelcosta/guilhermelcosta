@@ -1,14 +1,14 @@
 <readmator source-language="EN" translate-language="PT,ES"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md)</p>
-<h1>Boa noite, senhoras e senhores.</h1>
+<h1>Muito boa noite, senhoras e senhores</h1>
 
 **`Digital Craftsman`**
 
-<p>Olá, o meu nome é Guilherme, sou um desenvolvedor de pilha cheia com um forte foco em sistemas de infra-estrutura. Eu me especializo em projetar e implementar soluções de software escaláveis, com experiência em Java, Spring Boot, Python, Angular, React, SQL, Git e microservices baseados em nuvem. Atualmente, estou estudando o desenvolvimento de aplicativos na nuvem usando serviços AWS como Lambda, API Gateway, Glue, DynamoDB e Athena para construir arquiteturas eficientes e sem servidores.</p>
+<p>Olá, meu nome é Guilherme, sou um desenvolvedor de pilha completa com um forte foco nos sistemas de back -end.Eu me especializo em projetar e implementar soluções de software escaláveis, com experiência em microsserviços Java, Spring Boot, Python, Angular, React, SQL, Git e Cloud.Atualmente, estou estudando o desenvolvimento de aplicativos em nuvem usando serviços da AWS, como Lambda, API Gateway, Glue, DynamoDB e Athena para criar arquiteturas eficientes e sem servidores.</p>
 <div align="left">
 <a href="mailto:guilhermeldcosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff&amp;style=for-the-badge" target="_blank" title="LinkedIn"/></a>
 </div>
-<h2>Principais línguas e ferramentas</h2>
+<h2>Principais idiomas e ferramentas</h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&amp;logoColor=white&amp;style=for-the-badge" title="Java"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&amp;logoColor=white&amp;style=for-the-badge" title="Spring"/>
