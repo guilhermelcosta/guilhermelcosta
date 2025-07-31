@@ -1,4 +1,4 @@
-<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md)</p>
+<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
 
 **`Digital Craftsman`** 
 
@@ -7,7 +7,7 @@
 <a href="mailto:guilhermeldcosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff&amp;style=for-the-badge" target="_blank" title="LinkedIn"/></a>
 </div>
-<h2>Langues et outils principaux</h2>
+<h2>Langages et outils principaux</h2>
 <div align="left">
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&amp;logoColor=white&amp;style=for-the-badge" title="Java"/>
 <img alt="Spring" src="https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&amp;logoColor=white&amp;style=for-the-badge" title="Spring"/>
