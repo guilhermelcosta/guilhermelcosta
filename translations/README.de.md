@@ -1,6 +1,6 @@
-<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md) [![](https://img.shields.io/badge/lang-🇩🇪%20Deutsch-green)](./translations/README.de.md)</p>
+<readmator source-language="EN" translate-language="PT,ES,FR,DE"></readmator><p id="readmator-badges">[![](https://img.shields.io/badge/lang-🇧🇷%20Português-green)](./translations/README.pt-br.md) [![](https://img.shields.io/badge/lang-🇪🇸%20Español-green)](./translations/README.es.md) [![](https://img.shields.io/badge/lang-🇫🇷%20Français-green)](./translations/README.fr.md)</p>
 
-**`Digital Craftsman`**
+**`Digital Craftsman`** 
 
 <p>Hallo, mein Name ist Guilherme, ich bin ein vollständiger Stapelentwickler mit einem starken Fokus auf Backend -Systeme.Ich bin spezialisiert auf das Entwerfen und Implementieren von skalierbaren Softwarelösungen mit Erfahrung in Java, Spring Boot, Python, Angular, React, SQL, GIT und Cloud-basierten Microservices.Derzeit studiere ich Cloud-First-Anwendungsentwicklung mit AWS-Diensten wie Lambda, API-Gateway, Kleber, DynamoDB und Athena, um effiziente und serverlose Architekturen aufzubauen.</p>
 <div align="left">
