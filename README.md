@@ -1,4 +1,4 @@
-## Hello! I'm Guilherme Costa
+## Hello, I'm Guilherme Costa
 
 ```
 Backend Developer | Digital Craftsman 
