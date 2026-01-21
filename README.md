@@ -27,10 +27,7 @@ I consider myself a Linux enjoyer 🍷.
 
 ### { .links }
 
-<div align="left">
-<a href="mailto:guilhermeldcosta@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank" title="Gmail"/></a>
-<a href="https://www.linkedin.com/in/guilhermeldcosta/" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&amp;logoColor=fff&amp;style=for-the-badge" target="_blank" title="LinkedIn"/></a>
-</div>
+[**Email**](mailto:guilhermeldcosta@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/guilhermeldcosta/)
 
 ---
 
@@ -39,8 +36,8 @@ I consider myself a Linux enjoyer 🍷.
 **Top Languages**
 
 ```text
-Java       ███████░░░░░░░░░░░░░ 36.36%
-PHP        ████░░░░░░░░░░░░░░░░ 22.29%
-Blade      ███░░░░░░░░░░░░░░░░░ 16.87%
-CSS        ███░░░░░░░░░░░░░░░░░ 16.82%
-TypeScript █░░░░░░░░░░░░░░░░░░░ 07.67%
+Java       ███████░░░░░░░░░░░░░ 37%
+PHP        ████░░░░░░░░░░░░░░░░ 23%
+Blade      ███░░░░░░░░░░░░░░░░░ 16%
+CSS        ███░░░░░░░░░░░░░░░░░ 16%
+TypeScript █░░░░░░░░░░░░░░░░░░░ 08%
