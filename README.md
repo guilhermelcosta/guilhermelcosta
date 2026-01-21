@@ -27,7 +27,7 @@ I consider myself a Linux enjoyer 🍷.
 
 ### { .links }
 
-[**Email**](mailto:guilhermeldcosta@gmail.com) • [**LinkedIn**](https://www.linkedin.com/in/guilhermeldcosta/)
+[**Email**](mailto:guilhermeldcosta@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/guilhermeldcosta/)
 
 ---
 
