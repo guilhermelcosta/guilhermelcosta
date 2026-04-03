@@ -11,8 +11,6 @@ Backend Developer | Digital Craftsman
 I’m a **Backend Developer** focused on designing scalable software and reliable distributed
 systems. Most of my time is spent building cloud-native microservices and exploring hybrid architectures.
 
-I consider myself a Linux enjoyer 🍷.
-
 ---
 
 ### { .toolbox }
