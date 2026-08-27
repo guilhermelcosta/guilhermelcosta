@@ -1,0 +1,49 @@
+name: Update Language Stats
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-stats
+  cancel-in-progress: true
+
+jobs:
+  update-stats:
+    if: "!contains(github.event.head_commit.message, '[skip stats]')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Generate language stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python .github/scripts/update_lang_stats.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update language stats [skip stats]"
+            git push
+          fi

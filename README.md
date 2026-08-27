@@ -1,14 +1,14 @@
 ## Hello! I'm Guilherme Costa
 
 ```
-Backend Developer | Digital Craftsman 
+Software Engineer | Backend Developer | Digital Craftsman
 ```
 
 ---
 
 ### { .context }
 
-I’m a **Backend Developer** focused on designing scalable software and reliable distributed
+I’m a **Software Engineer** focused on designing scalable software and reliable distributed
 systems. Most of my time is spent building cloud-native microservices and exploring hybrid architectures.
 
 ---
@@ -34,6 +34,11 @@ systems. Most of my time is spent building cloud-native microservices and explor
 
 **Top Languages**
 
+### { .stats }
+
+**Top Languages**
+
+<!-- LANG-STATS:START -->
 ```text
 Time       ████████████████████ 100%
 
@@ -42,3 +47,5 @@ PHP        ░░░░░░░█████░░░░░░░░ 23%
 Blade      ░░░░░░░░░░░░███░░░░░ 16%
 CSS        ░░░░░░░░░░░░░░░███░░ 16%
 TypeScript ░░░░░░░░░░░░░░░░░░██ 08%
+```
+<!-- LANG-STATS:END -->
