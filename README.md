@@ -42,10 +42,11 @@ systems. Most of my time is spent building cloud-native microservices and explor
 ```text
 Time       ████████████████████ 100%
 
-Java       ███████░░░░░░░░░░░░░ 37%
-PHP        ░░░░░░░█████░░░░░░░░ 23%
-Blade      ░░░░░░░░░░░░███░░░░░ 16%
-CSS        ░░░░░░░░░░░░░░░███░░ 16%
-TypeScript ░░░░░░░░░░░░░░░░░░██ 08%
+Java       ██████░░░░░░░░░░░░░░ 29%
+PHP        ███░░░░░░░░░░░░░░░░░ 17%
+Blade      ███░░░░░░░░░░░░░░░░░ 13%
+CSS        ███░░░░░░░░░░░░░░░░░ 13%
+TypeScript █░░░░░░░░░░░░░░░░░░░ 06%
+JavaScript █░░░░░░░░░░░░░░░░░░░ 06%
 ```
 <!-- LANG-STATS:END -->
