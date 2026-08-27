@@ -11,6 +11,8 @@ Software Engineer | Backend Developer | Digital Craftsman
 I’m a **Software Engineer** focused on designing scalable software and reliable distributed
 systems. Most of my time is spent building cloud-native microservices and exploring hybrid architectures.
 
+<!-- TODO: MELHORAR ISSO AQUI -->
+
 ---
 
 ### { .toolbox }
@@ -29,10 +31,6 @@ systems. Most of my time is spent building cloud-native microservices and explor
 [**Portfolio**](https://guilhermelcosta.github.io/portfolio-v2/)
 
 ---
-
-### { .stats }
-
-**Top Languages**
 
 ### { .stats }
 
