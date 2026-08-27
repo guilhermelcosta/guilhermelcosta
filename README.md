@@ -8,10 +8,8 @@ Software Engineer | Backend Developer | Digital Craftsman
 
 ### { .context }
 
-I’m a **Software Engineer** focused on designing scalable software and reliable distributed
-systems. Most of my time is spent building cloud-native microservices and exploring hybrid architectures.
-
-<!-- TODO: MELHORAR ISSO AQUI -->
+I'm a **Senior Software Engineer** building backend systems and cloud-native architecture,
+currently focused on microservices at scale and AWS-based data pipelines.
 
 ---
 
