@@ -8,7 +8,7 @@ Software Engineer | Backend Developer | Digital Craftsman
 
 ### { .context }
 
-I'm a **Senior Software Engineer** building backend systems and cloud-native architecture,
+I'm a **Software Engineer** building backend systems and cloud-native architecture,
 currently focused on microservices at scale and AWS-based data pipelines.
 
 ---
