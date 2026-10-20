@@ -31,7 +31,7 @@ PALETTES = {
     "dark": {
         "border": "#30363d",
         "text": "#cdd6f4",
-        "key": "#cba6f7",
+        "key": "#a6adc8",
         "dim": "#7d8590",
         "accent": "#58a6ff",
         "green": "#a6e3a1",
@@ -41,7 +41,7 @@ PALETTES = {
     "light": {
         "border": "#d0d7de",
         "text": "#24292f",
-        "key": "#8250df",
+        "key": "#57606a",
         "dim": "#6e7781",
         "accent": "#0969da",
         "green": "#1a7f37",
