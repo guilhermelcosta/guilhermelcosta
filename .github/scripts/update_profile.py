@@ -20,7 +20,7 @@ OS = "Linux"
 
 WIDTH = 840
 SHOW_CONTRIBUTIONS = False
-HEIGHT = 650 if SHOW_CONTRIBUTIONS else 466
+HEIGHT = 629 if SHOW_CONTRIBUTIONS else 445
 PAD = 28
 FONT = "Consolas, Menlo, monospace"
 
@@ -381,32 +381,31 @@ def render(mode, stats):
     links = [
         plain_row("email", "guilhermeldcosta@gmail.com"),
         plain_row("linkedin", "linkedin.com/in/guilhermeldcosta"),
-        plain_row("portfolio", "guilhermelcosta.github.io/portfolio-v2"),
     ]
     for index, segments in enumerate(links):
         out.append(text_line(398 + index * 21, PAD, segments, p))
 
     if SHOW_CONTRIBUTIONS:
-        out.extend(section("contributions", 474, p))
-        out.extend(month_labels(stats["calendar"]["weeks"], PAD, 498, p))
-        out.extend(heatmap(stats["calendar"]["weeks"], PAD, 508, p))
+        out.extend(section("contributions", 453, p))
+        out.extend(month_labels(stats["calendar"]["weeks"], PAD, 477, p))
+        out.extend(heatmap(stats["calendar"]["weeks"], PAD, 487, p))
 
         out.append(
-            f'<text x="{PAD}" y="626" fill="{p["text"]}">{number(stats["contributions"])}'
+            f'<text x="{PAD}" y="605" fill="{p["text"]}">{number(stats["contributions"])}'
             f'<tspan fill="{p["dim"]}"> contributions in the last year</tspan></text>'
         )
 
         legend_x = WIDTH - PAD - 144
         out.append(
-            f'<text x="{legend_x}" y="626" fill="{p["dim"]}" font-size="11px">Less</text>'
+            f'<text x="{legend_x}" y="605" fill="{p["dim"]}" font-size="11px">Less</text>'
         )
         for index, color in enumerate(p["heat"]):
             out.append(
-                f'<rect x="{legend_x + 34 + index * 14}" y="616" width="11" height="11" '
+                f'<rect x="{legend_x + 34 + index * 14}" y="595" width="11" height="11" '
                 f'rx="2" fill="{color}"/>'
             )
         out.append(
-            f'<text x="{WIDTH - PAD}" y="626" text-anchor="end" fill="{p["dim"]}" '
+            f'<text x="{WIDTH - PAD}" y="605" text-anchor="end" fill="{p["dim"]}" '
             f'font-size="11px">More</text>'
         )
 
