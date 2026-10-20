@@ -31,9 +31,9 @@ PALETTES = {
     "dark": {
         "border": "#30363d",
         "text": "#cdd6f4",
-        "key": "#fab387",
+        "key": "#cba6f7",
         "dim": "#7d8590",
-        "accent": "#cba6f7",
+        "accent": "#58a6ff",
         "green": "#a6e3a1",
         "red": "#f38ba8",
         "heat": ["#21262d", "#3b2d5e", "#5a3f91", "#8a63c9", "#cba6f7"],
@@ -41,9 +41,9 @@ PALETTES = {
     "light": {
         "border": "#d0d7de",
         "text": "#24292f",
-        "key": "#bc4c00",
+        "key": "#8250df",
         "dim": "#6e7781",
-        "accent": "#8250df",
+        "accent": "#0969da",
         "green": "#1a7f37",
         "red": "#cf222e",
         "heat": ["#ebedf0", "#d8c7f5", "#b392eb", "#8e5fe0", "#8250df"],
