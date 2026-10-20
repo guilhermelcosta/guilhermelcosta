@@ -4,27 +4,27 @@
 <line x1="190" y1="38" x2="665" y2="38" stroke="#d0d7de"/>
 <text x="812" y="42" text-anchor="end" fill="#6e7781" font-size="11px">updated 2026-10-20</text>
 <line x1="28" y1="58" x2="812" y2="58" stroke="#d0d7de"/>
-<text x="28" y="86" xml:space="preserve"><tspan fill="#8250df">Role: </tspan><tspan fill="#6e7781">................... </tspan><tspan fill="#24292f">Senior Software Engineer</tspan></text>
-<text x="440" y="86" xml:space="preserve"><tspan fill="#8250df">Repos: </tspan><tspan fill="#6e7781">..................... </tspan><tspan fill="#24292f">52 {contributed: 0}</tspan></text>
-<text x="28" y="107" xml:space="preserve"><tspan fill="#8250df">Host: </tspan><tspan fill="#6e7781">................................... </tspan><tspan fill="#24292f">NTT DATA</tspan></text>
-<text x="440" y="107" xml:space="preserve"><tspan fill="#8250df">Stars: </tspan><tspan fill="#6e7781">...................................... </tspan><tspan fill="#24292f">13</tspan></text>
-<text x="28" y="128" xml:space="preserve"><tspan fill="#8250df">Location: </tspan><tspan fill="#6e7781">..................... </tspan><tspan fill="#24292f">Belo Horizonte, BR</tspan></text>
-<text x="440" y="128" xml:space="preserve"><tspan fill="#8250df">Commits: </tspan><tspan fill="#6e7781">................................. </tspan><tspan fill="#24292f">2,032</tspan></text>
-<text x="28" y="149" xml:space="preserve"><tspan fill="#8250df">OS: </tspan><tspan fill="#6e7781">........................................ </tspan><tspan fill="#24292f">Linux</tspan></text>
-<text x="440" y="149" xml:space="preserve"><tspan fill="#8250df">Followers: </tspan><tspan fill="#6e7781">.................................. </tspan><tspan fill="#24292f">20</tspan></text>
-<text x="28" y="170" xml:space="preserve"><tspan fill="#8250df">Uptime: </tspan><tspan fill="#6e7781">................... </tspan><tspan fill="#24292f">4 yrs, 3 mos on GitHub</tspan></text>
-<text x="440" y="170" xml:space="preserve"><tspan fill="#8250df">Lines of Code: </tspan><tspan fill="#6e7781">. </tspan><tspan fill="#24292f">3,102,765</tspan><tspan fill="#6e7781"> ( </tspan><tspan fill="#1a7f37">+3,430,002</tspan><tspan fill="#6e7781">, </tspan><tspan fill="#cf222e">-327,237</tspan><tspan fill="#6e7781"> )</tspan></text>
+<text x="28" y="86" xml:space="preserve"><tspan fill="#57606a">Role: </tspan><tspan fill="#6e7781">................... </tspan><tspan fill="#24292f">Senior Software Engineer</tspan></text>
+<text x="440" y="86" xml:space="preserve"><tspan fill="#57606a">Repos: </tspan><tspan fill="#6e7781">..................... </tspan><tspan fill="#24292f">52 {contributed: 0}</tspan></text>
+<text x="28" y="107" xml:space="preserve"><tspan fill="#57606a">Host: </tspan><tspan fill="#6e7781">................................... </tspan><tspan fill="#24292f">NTT DATA</tspan></text>
+<text x="440" y="107" xml:space="preserve"><tspan fill="#57606a">Stars: </tspan><tspan fill="#6e7781">...................................... </tspan><tspan fill="#24292f">13</tspan></text>
+<text x="28" y="128" xml:space="preserve"><tspan fill="#57606a">Location: </tspan><tspan fill="#6e7781">..................... </tspan><tspan fill="#24292f">Belo Horizonte, BR</tspan></text>
+<text x="440" y="128" xml:space="preserve"><tspan fill="#57606a">Commits: </tspan><tspan fill="#6e7781">................................. </tspan><tspan fill="#24292f">2,034</tspan></text>
+<text x="28" y="149" xml:space="preserve"><tspan fill="#57606a">OS: </tspan><tspan fill="#6e7781">........................................ </tspan><tspan fill="#24292f">Linux</tspan></text>
+<text x="440" y="149" xml:space="preserve"><tspan fill="#57606a">Followers: </tspan><tspan fill="#6e7781">.................................. </tspan><tspan fill="#24292f">20</tspan></text>
+<text x="28" y="170" xml:space="preserve"><tspan fill="#57606a">Uptime: </tspan><tspan fill="#6e7781">................... </tspan><tspan fill="#24292f">4 yrs, 3 mos on GitHub</tspan></text>
+<text x="440" y="170" xml:space="preserve"><tspan fill="#57606a">Lines of Code: </tspan><tspan fill="#6e7781">. </tspan><tspan fill="#24292f">3,102,763</tspan><tspan fill="#6e7781"> ( </tspan><tspan fill="#1a7f37">+3,430,004</tspan><tspan fill="#6e7781">, </tspan><tspan fill="#cf222e">-327,241</tspan><tspan fill="#6e7781"> )</tspan></text>
 <text x="28" y="204" fill="#0969da" xml:space="preserve">─ stack</text>
 <line x1="89" y1="200" x2="812" y2="200" stroke="#d0d7de"/>
-<text x="28" y="232" xml:space="preserve"><tspan fill="#8250df">backend   </tspan><tspan fill="#24292f">Java</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Spring Boot</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Python</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">SQL</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">NoSQL</tspan></text>
-<text x="28" y="253" xml:space="preserve"><tspan fill="#8250df">infra     </tspan><tspan fill="#24292f">AWS</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Terraform</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Docker</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Linux</tspan></text>
-<text x="28" y="274" xml:space="preserve"><tspan fill="#8250df">frontend  </tspan><tspan fill="#24292f">Angular</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">TypeScript</tspan></text>
+<text x="28" y="232" xml:space="preserve"><tspan fill="#57606a">backend   </tspan><tspan fill="#24292f">Java</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Spring Boot</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Python</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">SQL</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">NoSQL</tspan></text>
+<text x="28" y="253" xml:space="preserve"><tspan fill="#57606a">infra     </tspan><tspan fill="#24292f">AWS</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Terraform</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Docker</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">Linux</tspan></text>
+<text x="28" y="274" xml:space="preserve"><tspan fill="#57606a">frontend  </tspan><tspan fill="#24292f">Angular</tspan><tspan fill="#6e7781"> · </tspan><tspan fill="#24292f">TypeScript</tspan></text>
 <text x="28" y="308" fill="#0969da" xml:space="preserve">─ languages</text>
 <line x1="117" y1="304" x2="812" y2="304" stroke="#d0d7de"/>
 <text x="28" y="336" xml:space="preserve"><tspan fill="#0969da">Java</tspan><tspan fill="#24292f"> 29%</tspan><tspan fill="#6e7781">  ·  </tspan><tspan fill="#0969da">PHP</tspan><tspan fill="#24292f"> 17%</tspan><tspan fill="#6e7781">  ·  </tspan><tspan fill="#0969da">Blade</tspan><tspan fill="#24292f"> 13%</tspan><tspan fill="#6e7781">  ·  </tspan><tspan fill="#0969da">CSS</tspan><tspan fill="#24292f"> 13%</tspan><tspan fill="#6e7781">  ·  </tspan><tspan fill="#0969da">TypeScript</tspan><tspan fill="#24292f"> 6%</tspan><tspan fill="#6e7781">  ·  </tspan><tspan fill="#0969da">Other</tspan><tspan fill="#24292f"> 22%</tspan></text>
 <text x="28" y="370" fill="#0969da" xml:space="preserve">─ links</text>
 <line x1="89" y1="366" x2="812" y2="366" stroke="#d0d7de"/>
-<text x="28" y="398" xml:space="preserve"><tspan fill="#8250df">email     </tspan><tspan fill="#24292f">guilhermeldcosta@gmail.com</tspan></text>
-<text x="28" y="419" xml:space="preserve"><tspan fill="#8250df">linkedin  </tspan><tspan fill="#24292f">linkedin.com/in/guilhermeldcosta</tspan></text>
-<text x="28" y="440" xml:space="preserve"><tspan fill="#8250df">portfolio </tspan><tspan fill="#24292f">guilhermelcosta.github.io/portfolio-v2</tspan></text>
+<text x="28" y="398" xml:space="preserve"><tspan fill="#57606a">email     </tspan><tspan fill="#24292f">guilhermeldcosta@gmail.com</tspan></text>
+<text x="28" y="419" xml:space="preserve"><tspan fill="#57606a">linkedin  </tspan><tspan fill="#24292f">linkedin.com/in/guilhermeldcosta</tspan></text>
+<text x="28" y="440" xml:space="preserve"><tspan fill="#57606a">portfolio </tspan><tspan fill="#24292f">guilhermelcosta.github.io/portfolio-v2</tspan></text>
 </svg>
