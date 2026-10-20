@@ -20,7 +20,7 @@ OS = "Linux"
 
 WIDTH = 840
 SHOW_CONTRIBUTIONS = False
-HEIGHT = 445 if SHOW_CONTRIBUTIONS else 272
+HEIGHT = 650 if SHOW_CONTRIBUTIONS else 466
 PAD = 28
 FONT = "Consolas, Menlo, monospace"
 
@@ -29,26 +29,24 @@ PRIVATE_TOKEN = os.environ.get("ACCESS_TOKEN") or TOKEN
 
 PALETTES = {
     "dark": {
-        "bg": "#0d1117",
         "border": "#30363d",
-        "text": "#c9d1d9",
-        "key": "#ffa657",
-        "dim": "#484f58",
-        "accent": "#58a6ff",
-        "green": "#3fb950",
-        "red": "#f85149",
-        "heat": ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353"],
+        "text": "#cdd6f4",
+        "key": "#fab387",
+        "dim": "#7d8590",
+        "accent": "#cba6f7",
+        "green": "#a6e3a1",
+        "red": "#f38ba8",
+        "heat": ["#21262d", "#3b2d5e", "#5a3f91", "#8a63c9", "#cba6f7"],
     },
     "light": {
-        "bg": "#ffffff",
         "border": "#d0d7de",
         "text": "#24292f",
-        "key": "#953800",
-        "dim": "#afb8c1",
-        "accent": "#0969da",
+        "key": "#bc4c00",
+        "dim": "#6e7781",
+        "accent": "#8250df",
         "green": "#1a7f37",
         "red": "#cf222e",
-        "heat": ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"],
+        "heat": ["#ebedf0", "#d8c7f5", "#b392eb", "#8e5fe0", "#8250df"],
     },
 }
 
@@ -292,25 +290,53 @@ def month_labels(weeks, x0, y0, palette):
     return labels
 
 
+def section(title, baseline, palette):
+    label = f"─ {title}"
+    x1 = PAD + round(len(label) * 7.0) + 12
+    return [
+        f'<text x="{PAD}" y="{baseline}" fill="{palette["accent"]}" '
+        f'xml:space="preserve">{label}</text>',
+        f'<line x1="{x1}" y1="{baseline - 4}" x2="{WIDTH - PAD}" y2="{baseline - 4}" '
+        f'stroke="{palette["border"]}"/>',
+    ]
+
+
+def plain_row(key, value, key_width=9):
+    return [(f"{key.ljust(key_width)} ", "key"), (value, "text")]
+
+
+def item_row(key, items, key_width=9):
+    parts = [(f"{key.ljust(key_width)} ", "key")]
+    for index, item in enumerate(items):
+        if index:
+            parts.append((" · ", "dim"))
+        parts.append((item, "text"))
+    return parts
+
+
+def text_line(y, x, segments, palette):
+    spans = "".join(
+        f'<tspan fill="{palette[color]}">{html.escape(text)}</tspan>'
+        for text, color in segments
+    )
+    return f'<text x="{x}" y="{y}" xml:space="preserve">{spans}</text>'
+
+
 def render(mode, stats):
     p = PALETTES[mode]
     today = datetime.now(timezone.utc).date()
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" '
         f'viewBox="0 0 {WIDTH} {HEIGHT}" font-family="{FONT}" font-size="13px" '
-        f'role="img" aria-label="Guilherme Costa GitHub stats">',
-        "<title>Guilherme Costa - GitHub stats</title>",
-        f'<rect x="0.5" y="0.5" width="{WIDTH - 1}" height="{HEIGHT - 1}" rx="10" '
-        f'fill="{p["bg"]}" stroke="{p["border"]}"/>',
+        f'role="img" aria-label="Guilherme Costa - profile and GitHub stats">',
+        "<title>Guilherme Costa - profile and GitHub stats</title>",
     ]
 
     out.append(
         f'<text x="{PAD}" y="42" fill="{p["accent"]}" font-size="14px">'
         f"{USER}@github</text>"
     )
-    out.append(
-        f'<line x1="190" y1="38" x2="665" y2="38" stroke="{p["border"]}"/>'
-    )
+    out.append(f'<line x1="190" y1="38" x2="665" y2="38" stroke="{p["border"]}"/>')
     out.append(
         f'<text x="{WIDTH - PAD}" y="42" text-anchor="end" fill="{p["dim"]}" '
         f'font-size="11px">updated {today.isoformat()}</text>'
@@ -336,52 +362,51 @@ def render(mode, stats):
 
     for index, (left_row, right_row) in enumerate(zip(left, right)):
         y = 86 + index * 21
-        for x, segments in ((PAD, left_row), (440, right_row)):
-            spans = "".join(
-                f'<tspan fill="{p[color]}">{html.escape(text)}</tspan>'
-                for text, color in segments
-            )
-            out.append(f'<text x="{x}" y="{y}" xml:space="preserve">{spans}</text>')
+        out.append(text_line(y, PAD, left_row, p))
+        out.append(text_line(y, 440, right_row, p))
 
-    # Languages
-    out.append(
-        f'<text x="{PAD}" y="208" fill="{p["accent"]}">─ languages </text>'
-    )
-    out.append(
-        f'<line x1="140" y1="204" x2="{WIDTH - PAD}" y2="204" stroke="{p["border"]}"/>'
-    )
-    spans = "".join(
-        f'<tspan fill="{p[color]}">{html.escape(text)}</tspan>'
-        for text, color in language_segments(stats)
-    )
-    out.append(f'<text x="{PAD}" y="236" xml:space="preserve">{spans}</text>')
+    out.extend(section("stack", 204, p))
+    stack = [
+        item_row("backend", ["Java", "Spring Boot", "Python", "SQL", "NoSQL"]),
+        item_row("infra", ["AWS", "Terraform", "Docker", "Linux"]),
+        item_row("frontend", ["Angular", "TypeScript"]),
+    ]
+    for index, segments in enumerate(stack):
+        out.append(text_line(232 + index * 21, PAD, segments, p))
+
+    out.extend(section("languages", 308, p))
+    out.append(text_line(336, PAD, language_segments(stats), p))
+
+    out.extend(section("links", 370, p))
+    links = [
+        plain_row("email", "guilhermeldcosta@gmail.com"),
+        plain_row("linkedin", "linkedin.com/in/guilhermeldcosta"),
+        plain_row("portfolio", "guilhermelcosta.github.io/portfolio-v2"),
+    ]
+    for index, segments in enumerate(links):
+        out.append(text_line(398 + index * 21, PAD, segments, p))
 
     if SHOW_CONTRIBUTIONS:
-        out.append(
-            f'<text x="{PAD}" y="272" fill="{p["accent"]}">─ contributions </text>'
-        )
-        out.append(
-            f'<line x1="172" y1="268" x2="{WIDTH - PAD}" y2="268" stroke="{p["border"]}"/>'
-        )
-        out.extend(month_labels(stats["calendar"]["weeks"], PAD, 296, p))
-        out.extend(heatmap(stats["calendar"]["weeks"], PAD, 306, p))
+        out.extend(section("contributions", 474, p))
+        out.extend(month_labels(stats["calendar"]["weeks"], PAD, 498, p))
+        out.extend(heatmap(stats["calendar"]["weeks"], PAD, 508, p))
 
         out.append(
-            f'<text x="{PAD}" y="424" fill="{p["text"]}">{number(stats["contributions"])}'
+            f'<text x="{PAD}" y="626" fill="{p["text"]}">{number(stats["contributions"])}'
             f'<tspan fill="{p["dim"]}"> contributions in the last year</tspan></text>'
         )
 
         legend_x = WIDTH - PAD - 144
         out.append(
-            f'<text x="{legend_x}" y="424" fill="{p["dim"]}" font-size="11px">Less</text>'
+            f'<text x="{legend_x}" y="626" fill="{p["dim"]}" font-size="11px">Less</text>'
         )
         for index, color in enumerate(p["heat"]):
             out.append(
-                f'<rect x="{legend_x + 34 + index * 14}" y="414" width="11" height="11" '
+                f'<rect x="{legend_x + 34 + index * 14}" y="616" width="11" height="11" '
                 f'rx="2" fill="{color}"/>'
             )
         out.append(
-            f'<text x="{WIDTH - PAD}" y="424" text-anchor="end" fill="{p["dim"]}" '
+            f'<text x="{WIDTH - PAD}" y="626" text-anchor="end" fill="{p["dim"]}" '
             f'font-size="11px">More</text>'
         )
 
