@@ -1,48 +1,14 @@
-## Hello! I'm Guilherme Costa
+### Hey, I'm Guilherme
 
-```
-Software Engineer | Backend Developer | Digital Craftsman
-```
+Backend engineer in Belo Horizonte. I build microservices and AWS data pipelines
+that handle around a million transactions a day.
 
----
+`Java` `Spring Boot` `Python` `AWS` `Terraform` `Angular` `TypeScript`
 
-### { .context }
+[email](mailto:guilhermeldcosta@gmail.com) · [linkedin](https://www.linkedin.com/in/guilhermeldcosta/) · [portfolio](https://guilhermelcosta.github.io/portfolio-v2/)
 
-I'm a **Software Engineer** building backend systems and cloud-native architecture,
-currently focused on microservices at scale and AWS-based data pipelines.
-
----
-
-### { .toolbox }
-
-**Backend** `Spring Boot` `SQL` `NoSQL` `Java` `Python`
-
-**Infrastructure** `AWS` `Terraform` `Linux` `Docker`
-
-**Frontend** `Angular` `Typescript`
-
----
-
-### { .links }
-
-[**Email**](mailto:guilhermeldcosta@gmail.com) | [**LinkedIn**](https://www.linkedin.com/in/guilhermeldcosta/) |
-[**Portfolio**](https://guilhermelcosta.github.io/portfolio-v2/)
-
----
-
-### { .stats }
-
-**Top Languages**
-
-<!-- LANG-STATS:START -->
-```text
-Time       ████████████████████ 100%
-
-Java       ██████░░░░░░░░░░░░░░ 29%
-PHP        ███░░░░░░░░░░░░░░░░░ 17%
-Blade      ███░░░░░░░░░░░░░░░░░ 13%
-CSS        ███░░░░░░░░░░░░░░░░░ 13%
-TypeScript █░░░░░░░░░░░░░░░░░░░ 06%
-JavaScript █░░░░░░░░░░░░░░░░░░░ 06%
-```
-<!-- LANG-STATS:END -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Guilherme Costa's GitHub stats" src="dark_mode.svg">
+</picture>
