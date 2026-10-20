@@ -1,19 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="466" viewBox="0 0 840 466" font-family="Consolas, Menlo, monospace" font-size="13px" role="img" aria-label="Guilherme Costa - profile and GitHub stats">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="445" viewBox="0 0 840 445" font-family="Consolas, Menlo, monospace" font-size="13px" role="img" aria-label="Guilherme Costa - profile and GitHub stats">
 <title>Guilherme Costa - profile and GitHub stats</title>
 <text x="28" y="42" fill="#58a6ff" font-size="14px">guilhermelcosta@github</text>
 <line x1="190" y1="38" x2="665" y2="38" stroke="#30363d"/>
 <text x="812" y="42" text-anchor="end" fill="#7d8590" font-size="11px">updated 2026-10-20</text>
 <line x1="28" y1="58" x2="812" y2="58" stroke="#30363d"/>
 <text x="28" y="86" xml:space="preserve"><tspan fill="#fab387">Role: </tspan><tspan fill="#7d8590">................... </tspan><tspan fill="#cdd6f4">Senior Software Engineer</tspan></text>
-<text x="440" y="86" xml:space="preserve"><tspan fill="#fab387">Repos: </tspan><tspan fill="#7d8590">..................... </tspan><tspan fill="#cdd6f4">52 {contributed: 0}</tspan></text>
+<text x="440" y="86" xml:space="preserve"><tspan fill="#fab387">Repos: </tspan><tspan fill="#7d8590">..................... </tspan><tspan fill="#cdd6f4">51 {contributed: 0}</tspan></text>
 <text x="28" y="107" xml:space="preserve"><tspan fill="#fab387">Host: </tspan><tspan fill="#7d8590">................................... </tspan><tspan fill="#cdd6f4">NTT DATA</tspan></text>
 <text x="440" y="107" xml:space="preserve"><tspan fill="#fab387">Stars: </tspan><tspan fill="#7d8590">...................................... </tspan><tspan fill="#cdd6f4">13</tspan></text>
 <text x="28" y="128" xml:space="preserve"><tspan fill="#fab387">Location: </tspan><tspan fill="#7d8590">..................... </tspan><tspan fill="#cdd6f4">Belo Horizonte, BR</tspan></text>
-<text x="440" y="128" xml:space="preserve"><tspan fill="#fab387">Commits: </tspan><tspan fill="#7d8590">................................. </tspan><tspan fill="#cdd6f4">2,035</tspan></text>
+<text x="440" y="128" xml:space="preserve"><tspan fill="#fab387">Commits: </tspan><tspan fill="#7d8590">................................. </tspan><tspan fill="#cdd6f4">2,036</tspan></text>
 <text x="28" y="149" xml:space="preserve"><tspan fill="#fab387">OS: </tspan><tspan fill="#7d8590">........................................ </tspan><tspan fill="#cdd6f4">Linux</tspan></text>
 <text x="440" y="149" xml:space="preserve"><tspan fill="#fab387">Followers: </tspan><tspan fill="#7d8590">.................................. </tspan><tspan fill="#cdd6f4">20</tspan></text>
 <text x="28" y="170" xml:space="preserve"><tspan fill="#fab387">Uptime: </tspan><tspan fill="#7d8590">................... </tspan><tspan fill="#cdd6f4">4 yrs, 3 mos on GitHub</tspan></text>
-<text x="440" y="170" xml:space="preserve"><tspan fill="#fab387">Lines of Code: </tspan><tspan fill="#7d8590">. </tspan><tspan fill="#cdd6f4">3,102,763</tspan><tspan fill="#7d8590"> ( </tspan><tspan fill="#a6e3a1">+3,430,006</tspan><tspan fill="#7d8590">, </tspan><tspan fill="#f38ba8">-327,243</tspan><tspan fill="#7d8590"> )</tspan></text>
+<text x="440" y="170" xml:space="preserve"><tspan fill="#fab387">Lines of Code: </tspan><tspan fill="#7d8590">. </tspan><tspan fill="#cdd6f4">3,101,835</tspan><tspan fill="#7d8590"> ( </tspan><tspan fill="#a6e3a1">+3,426,659</tspan><tspan fill="#7d8590">, </tspan><tspan fill="#f38ba8">-324,824</tspan><tspan fill="#7d8590"> )</tspan></text>
 <text x="28" y="204" fill="#58a6ff" xml:space="preserve">─ stack</text>
 <line x1="89" y1="200" x2="812" y2="200" stroke="#30363d"/>
 <text x="28" y="232" xml:space="preserve"><tspan fill="#fab387">backend   </tspan><tspan fill="#cdd6f4">Java</tspan><tspan fill="#7d8590"> · </tspan><tspan fill="#cdd6f4">Spring Boot</tspan><tspan fill="#7d8590"> · </tspan><tspan fill="#cdd6f4">Python</tspan><tspan fill="#7d8590"> · </tspan><tspan fill="#cdd6f4">SQL</tspan><tspan fill="#7d8590"> · </tspan><tspan fill="#cdd6f4">NoSQL</tspan></text>
@@ -26,5 +26,4 @@
 <line x1="89" y1="366" x2="812" y2="366" stroke="#30363d"/>
 <text x="28" y="398" xml:space="preserve"><tspan fill="#fab387">email     </tspan><tspan fill="#cdd6f4">guilhermeldcosta@gmail.com</tspan></text>
 <text x="28" y="419" xml:space="preserve"><tspan fill="#fab387">linkedin  </tspan><tspan fill="#cdd6f4">linkedin.com/in/guilhermeldcosta</tspan></text>
-<text x="28" y="440" xml:space="preserve"><tspan fill="#fab387">portfolio </tspan><tspan fill="#cdd6f4">guilhermelcosta.github.io/portfolio-v2</tspan></text>
 </svg>
