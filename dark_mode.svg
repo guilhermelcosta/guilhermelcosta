@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="272" viewBox="0 0 840 272" font-family="Consolas, Menlo, monospace" font-size="13px" role="img" aria-label="Guilherme Costa GitHub stats">
+<title>Guilherme Costa - GitHub stats</title>
+<rect x="0.5" y="0.5" width="839" height="271" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="28" y="42" fill="#58a6ff" font-size="14px">guilhermelcosta@github</text>
+<line x1="190" y1="38" x2="665" y2="38" stroke="#30363d"/>
+<text x="812" y="42" text-anchor="end" fill="#484f58" font-size="11px">updated 2026-10-20</text>
+<line x1="28" y1="58" x2="812" y2="58" stroke="#30363d"/>
+<text x="28" y="86" xml:space="preserve"><tspan fill="#ffa657">Role: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">Senior Software Engineer</tspan></text>
+<text x="440" y="86" xml:space="preserve"><tspan fill="#ffa657">Repos: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">52 {contributed: 0}</tspan></text>
+<text x="28" y="107" xml:space="preserve"><tspan fill="#ffa657">Host: </tspan><tspan fill="#484f58">................................... </tspan><tspan fill="#c9d1d9">NTT DATA</tspan></text>
+<text x="440" y="107" xml:space="preserve"><tspan fill="#ffa657">Stars: </tspan><tspan fill="#484f58">...................................... </tspan><tspan fill="#c9d1d9">13</tspan></text>
+<text x="28" y="128" xml:space="preserve"><tspan fill="#ffa657">Location: </tspan><tspan fill="#484f58">..................... </tspan><tspan fill="#c9d1d9">Belo Horizonte, BR</tspan></text>
+<text x="440" y="128" xml:space="preserve"><tspan fill="#ffa657">Commits: </tspan><tspan fill="#484f58">................................. </tspan><tspan fill="#c9d1d9">2,030</tspan></text>
+<text x="28" y="149" xml:space="preserve"><tspan fill="#ffa657">OS: </tspan><tspan fill="#484f58">........................................ </tspan><tspan fill="#c9d1d9">Linux</tspan></text>
+<text x="440" y="149" xml:space="preserve"><tspan fill="#ffa657">Followers: </tspan><tspan fill="#484f58">.................................. </tspan><tspan fill="#c9d1d9">20</tspan></text>
+<text x="28" y="170" xml:space="preserve"><tspan fill="#ffa657">Uptime: </tspan><tspan fill="#484f58">................... </tspan><tspan fill="#c9d1d9">4 yrs, 3 mos on GitHub</tspan></text>
+<text x="440" y="170" xml:space="preserve"><tspan fill="#ffa657">Lines of Code: </tspan><tspan fill="#484f58">. </tspan><tspan fill="#c9d1d9">3,102,747</tspan><tspan fill="#484f58"> ( </tspan><tspan fill="#3fb950">+3,429,919</tspan><tspan fill="#484f58">, </tspan><tspan fill="#f85149">-327,172</tspan><tspan fill="#484f58"> )</tspan></text>
+<text x="28" y="208" fill="#58a6ff">─ languages </text>
+<line x1="140" y1="204" x2="812" y2="204" stroke="#30363d"/>
+<text x="28" y="236" xml:space="preserve"><tspan fill="#58a6ff">Java</tspan><tspan fill="#c9d1d9"> 29%</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#58a6ff">PHP</tspan><tspan fill="#c9d1d9"> 17%</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#58a6ff">Blade</tspan><tspan fill="#c9d1d9"> 13%</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#58a6ff">CSS</tspan><tspan fill="#c9d1d9"> 13%</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#58a6ff">TypeScript</tspan><tspan fill="#c9d1d9"> 6%</tspan><tspan fill="#484f58">  ·  </tspan><tspan fill="#58a6ff">Other</tspan><tspan fill="#c9d1d9"> 22%</tspan></text>
+</svg>
