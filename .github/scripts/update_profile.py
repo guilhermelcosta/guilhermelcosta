@@ -19,7 +19,8 @@ LOCATION = "Belo Horizonte, BR"
 OS = "Linux"
 
 WIDTH = 840
-HEIGHT = 445
+SHOW_CONTRIBUTIONS = False
+HEIGHT = 445 if SHOW_CONTRIBUTIONS else 272
 PAD = 28
 FONT = "Consolas, Menlo, monospace"
 
@@ -355,34 +356,34 @@ def render(mode, stats):
     )
     out.append(f'<text x="{PAD}" y="236" xml:space="preserve">{spans}</text>')
 
-    # Contributions
-    out.append(
-        f'<text x="{PAD}" y="272" fill="{p["accent"]}">─ contributions </text>'
-    )
-    out.append(
-        f'<line x1="172" y1="268" x2="{WIDTH - PAD}" y2="268" stroke="{p["border"]}"/>'
-    )
-    out.extend(month_labels(stats["calendar"]["weeks"], PAD, 296, p))
-    out.extend(heatmap(stats["calendar"]["weeks"], PAD, 306, p))
-
-    out.append(
-        f'<text x="{PAD}" y="424" fill="{p["text"]}">{number(stats["contributions"])}'
-        f'<tspan fill="{p["dim"]}"> contributions in the last year</tspan></text>'
-    )
-
-    legend_x = WIDTH - PAD - 144
-    out.append(
-        f'<text x="{legend_x}" y="424" fill="{p["dim"]}" font-size="11px">Less</text>'
-    )
-    for index, color in enumerate(p["heat"]):
+    if SHOW_CONTRIBUTIONS:
         out.append(
-            f'<rect x="{legend_x + 34 + index * 14}" y="414" width="11" height="11" '
-            f'rx="2" fill="{color}"/>'
+            f'<text x="{PAD}" y="272" fill="{p["accent"]}">─ contributions </text>'
         )
-    out.append(
-        f'<text x="{WIDTH - PAD}" y="424" text-anchor="end" fill="{p["dim"]}" '
-        f'font-size="11px">More</text>'
-    )
+        out.append(
+            f'<line x1="172" y1="268" x2="{WIDTH - PAD}" y2="268" stroke="{p["border"]}"/>'
+        )
+        out.extend(month_labels(stats["calendar"]["weeks"], PAD, 296, p))
+        out.extend(heatmap(stats["calendar"]["weeks"], PAD, 306, p))
+
+        out.append(
+            f'<text x="{PAD}" y="424" fill="{p["text"]}">{number(stats["contributions"])}'
+            f'<tspan fill="{p["dim"]}"> contributions in the last year</tspan></text>'
+        )
+
+        legend_x = WIDTH - PAD - 144
+        out.append(
+            f'<text x="{legend_x}" y="424" fill="{p["dim"]}" font-size="11px">Less</text>'
+        )
+        for index, color in enumerate(p["heat"]):
+            out.append(
+                f'<rect x="{legend_x + 34 + index * 14}" y="414" width="11" height="11" '
+                f'rx="2" fill="{color}"/>'
+            )
+        out.append(
+            f'<text x="{WIDTH - PAD}" y="424" text-anchor="end" fill="{p["dim"]}" '
+            f'font-size="11px">More</text>'
+        )
 
     out.append("</svg>")
     return "\n".join(out)
